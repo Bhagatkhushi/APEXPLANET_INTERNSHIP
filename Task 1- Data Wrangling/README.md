@@ -54,7 +54,22 @@ The dataset was examined to understand:
 - Dataset Overview
 
 ---
-## Project Preview
+
+## 📸 Project Screenshots
+
+### Output 1
+![Output1](output1.png)
+
+### Output 2
+![Output2](output2.png)
+
+---
+
 ## ✅ Outcome
 
 Successfully explored, assessed, cleaned, and transformed the dataset. The final dataset is analysis-ready and can be used for further analytics and dashboard creation.
+
+---
+
+## Author
+Khushi Bhagat
