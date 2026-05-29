@@ -98,16 +98,16 @@ An Excel dashboard was created containing:
 ## 📸 Project Screenshots
 
 ### Output 1
-![Output 1](screenshots/output1.png)
+![Output1](Terminal Output/output1.png)
 
 ### Output 2
-![Output 2](screenshots/output2.png)
+![Output2](Terminal Output/output2.png)
 
 ### Output 3
-![Output 3](screenshots/output3.png)
+![Output3](Terminal Output/output3.png)
 
 ### Business Question & Insights
-![Output 4](screenshots/output4.png)
+![Output4](Terminal Output/output4.png)
 
 ## 📊 KPI Metrics
 
