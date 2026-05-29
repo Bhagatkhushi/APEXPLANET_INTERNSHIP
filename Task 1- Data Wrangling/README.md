@@ -15,8 +15,15 @@ The objective of this task is to understand the dataset, assess data quality, pe
 
 ## 📂 Dataset
 
-Dataset used for data cleaning and preprocessing.
+Dataset Used: `small_superstore.csv`
 
+The dataset contains 500 records and 21 columns related to:
+- Orders
+- Customers
+- Products
+- Sales
+- Profit
+- Regions
 The dataset was examined to understand:
 - Structure of data
 - Column information
