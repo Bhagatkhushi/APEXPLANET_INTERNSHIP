@@ -95,6 +95,20 @@ An Excel dashboard was created containing:
 
 ---
 
+## 📸 Project Screenshots
+
+### Output 1
+![Output 1](screenshots/output1.png)
+
+### Output 2
+![Output 2](screenshots/output2.png)
+
+### Output 3
+![Output 3](screenshots/output3.png)
+
+### Business Question & Insights
+![Output 4](screenshots/output4.png)
+
 ## 📊 KPI Metrics
 
 | Metric | Value |
@@ -106,9 +120,6 @@ An Excel dashboard was created containing:
 
 ---
 
-
-
-
 ## ✅ Outcome
 
-Successfully performed Exploratory Data Analysis (EDA), generated actionable business insights, answered key business questions, and designed an Excel dashboard to visualize sales performance and support business decision-making.
+Successfully performed Exploratory Data Analysis (EDA), answered key business questions, generated visulizations, and designed an Excel dashboard to visualize sales performance and support business decision-making.
