@@ -1,55 +1,60 @@
-# Task 1 - Data Immersion & Wrangling
+# 📊 Task 1 - Data Immersion & Wrangling
 
-## Objective
-The objective of this task is to perform data cleaning and preprocessing on the Superstore dataset using Python and Pandas. The project focuses on identifying missing values, duplicate records, and preparing the dataset for further analysis.
+## 🎯 Objective
 
----
-
-## Features
-- User-friendly data cleaning workflow
-- Automated missing value checking
-- Duplicate record identification
-- Clean dataset generation
-- Structured and readable Python script
+The objective of this task is to understand the dataset, assess data quality, perform data cleaning and transformation, and prepare the data for analysis.
 
 ---
 
-## Technologies Used
+## 🛠️ Technologies Used
+
 - Python
 - Pandas
 - VS Code
+---
+
+## 📂 Dataset
+
+Dataset used for data cleaning and preprocessing.
+
+The dataset was examined to understand:
+- Structure of data
+- Column information
+- Missing values
+- Duplicate records
+- Data quality issues
 
 ---
 
-## How It Works
-1. Load the dataset using Pandas.
-2. Display dataset preview and information.
-3. Check missing values and duplicate records.
-4. Remove duplicate rows and unnecessary columns.
-5. Save the cleaned dataset into a new CSV file.
+## 🔍 Tasks Performed
+
+### 1. Data Access & Familiarization
+- Loaded the dataset
+- Explored rows and columns
+- Understood data types and business relevance
+
+### 2. Data Quality Assessment
+- Checked missing values
+- Checked duplicate records
+- Identified inconsistencies in the dataset
+
+### 3. Data Cleaning & Transformation
+- Removed duplicate records
+- Handled missing values
+- Standardized data formats
+- Prepared clean data for analysis
 
 ---
 
-## Tasks Performed
-- Loaded the Superstore dataset using Pandas
-- Displayed dataset preview and dataset information
-- Checked missing values in each column
-- Identified duplicate rows in the dataset
-- Removed unnecessary columns
-- Saved the cleaned dataset as a new CSV file
+## 📈 Data Quality Checks
+
+- Missing Value Analysis
+- Duplicate Record Detection
+- Data Type Validation
+- Dataset Overview
 
 ---
+## Project Preview
+## ✅ Outcome
 
-## Output Screenshot
-![Project Output](screenshots/output1.png)
-![Project Output](screenshots/output2.png)
-
----
-
-## Outcome
-Successfully cleaned and prepared the dataset for further data analysis and visualization.
-
----
-
-## Author
-Khushi Bhagat
+Successfully explored, assessed, cleaned, and transformed the dataset. The final dataset is analysis-ready and can be used for further analytics and dashboard creation.
