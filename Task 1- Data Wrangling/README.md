@@ -58,10 +58,10 @@ The dataset was examined to understand:
 ## 📸 Project Screenshots
 
 ### Output 1
-![Output1](output1.png)
+![Output 1](screenshots/output1.png)
 
 ### Output 2
-![Output2](output2.png)
+![Output 2](screenshots/output2.png)
 
 ---
 
