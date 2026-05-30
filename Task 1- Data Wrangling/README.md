@@ -81,5 +81,4 @@ Successfully explored, assessed, cleaned, and transformed the dataset. The final
 ## Author
 
 Khushi Bhagat
-## Author
-Khushi Bhagat
+
