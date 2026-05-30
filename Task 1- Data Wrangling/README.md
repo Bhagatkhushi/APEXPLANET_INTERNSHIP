@@ -1,19 +1,19 @@
-# 📊 Task 1 - Data Immersion & Wrangling
+# Task 1 - Data Immersion & Wrangling
 
-## 🎯 Objective
+## Objective
 
 The objective of this task is to understand the dataset, assess data quality, perform data cleaning and transformation, and prepare the data for analysis.
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
 - VS Code
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset Used: `small_superstore.csv`
 
@@ -33,7 +33,7 @@ The dataset was examined to understand:
 
 ---
 
-## 🔍 Tasks Performed
+## Tasks Performed
 
 ### 1. Data Access & Familiarization
 - Loaded the dataset
@@ -53,7 +53,7 @@ The dataset was examined to understand:
 
 ---
 
-## 📈 Data Quality Checks
+## Data Quality Checks
 
 - Missing Value Analysis
 - Duplicate Record Detection
@@ -62,7 +62,7 @@ The dataset was examined to understand:
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Output 1
 ![Output 1](screenshots/output1.png)
@@ -72,11 +72,14 @@ The dataset was examined to understand:
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 Successfully explored, assessed, cleaned, and transformed the dataset. The final dataset is analysis-ready and can be used for further analytics and dashboard creation.
 
 ---
 
+## Author
+
+Khushi Bhagat
 ## Author
 Khushi Bhagat
