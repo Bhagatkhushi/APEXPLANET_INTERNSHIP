@@ -1,12 +1,12 @@
-# 📊 Task 2 - Exploratory Data Analysis (EDA) & Business Intelligence
+# Task 2 - Exploratory Data Analysis (EDA) & Business Intelligence
 
-## 🎯 Objective
+## Objective
 
 To perform Exploratory Data Analysis (EDA) on the Superstore dataset, uncover business insights, identify sales and profit trends, and build an interactive dashboard for decision-making.
 
 ---
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -16,7 +16,7 @@ To perform Exploratory Data Analysis (EDA) on the Superstore dataset, uncover bu
 
 ---
 
-## 📂 Dataset
+## Dataset
 
 Dataset Used: `small_superstore.csv`
 
@@ -27,7 +27,7 @@ The dataset contains:
 
 ---
 
-## 🔍 Tasks Performed
+## Tasks Performed
 
 ### 1. Data Exploration
 - Loaded and inspected the dataset
@@ -62,7 +62,7 @@ Created an Excel dashboard containing:
 
 ---
 
-## 📋 Dashboard
+## Dashboard
 
 An Excel dashboard was created containing:
 
@@ -79,7 +79,7 @@ An Excel dashboard was created containing:
 
 ---
 
-## 📸 Dashboard Preview
+## Dashboard Preview
 
 ### Excel Dashboard
 ![Dashboard](dashboard.png)
@@ -95,7 +95,7 @@ An Excel dashboard was created containing:
 
 ---
 
-## 📸 Project Screenshots
+## Project Screenshots
 
 ### Output 1
 ![Output1](Terminal_output/output1.png)
@@ -109,7 +109,7 @@ An Excel dashboard was created containing:
 ### Business Question & Insights
 ![Output4](Terminal_output/output4.png)
 
-## 📊 KPI Metrics
+## KPI Metrics
 
 | Metric | Value |
 |----------|----------|
@@ -120,6 +120,10 @@ An Excel dashboard was created containing:
 
 ---
 
-## ✅ Outcome
+## Outcome
 
 Successfully performed Exploratory Data Analysis (EDA), answered key business questions, generated visulizations, and designed an Excel dashboard to visualize sales performance and support business decision-making.
+
+## Author
+
+Khushi Bhagat
